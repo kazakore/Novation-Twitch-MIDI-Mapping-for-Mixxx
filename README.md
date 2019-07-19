@@ -1,5 +1,7 @@
 # Novation-Twitch-MIDI-Mapping-for-Mixxx
 
+This project is covered by the modified GPL licenc as in use by the main Mixxx program. https://github.com/mixxxdj/mixxx/blob/master/LICENSE
+
 Installation and use is the same as any of Mixxx MIDI Mapping. Copy both .js files and the .xml file into your Controllers folder within the Resources directory (eg ~/.mixxx/res as default on Linux) and select in Mixxx Preferences.
 
 User guide can viewed by opening the .odt file or at: https://www.mixxx.org/wiki/doku.php/kazakore_twitch_tmp
